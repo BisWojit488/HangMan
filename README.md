@@ -25,6 +25,11 @@ A classic Hangman word-guessing game built using **React.js** and **Vite**. The 
 4. Each incorrect guess reduces your remaining trials.
 5. Win by guessing all letters before your trials run out!
 
+## You can play it using the link given below
+```bash
+#hang-6e7ts6yll-biswojits-projects-f97aa9d3.vercel.app
+```
+
 ## 📦 Installation & Setup
 
 ```bash
